@@ -1,0 +1,19 @@
+{
+  "name": "design-token-versioning",
+  "version": "0.0.0-semantic-release",
+  "description": "Sample for handling design token versioning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toshi-dsv/design-token-versioning.git"
+  },
+  "author": "toshi-dsv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toshi-dsv/design-token-versioning/issues"
+  },
+  "homepage": "https://github.com/toshi-dsv/design-token-versioning#readme"
+}
