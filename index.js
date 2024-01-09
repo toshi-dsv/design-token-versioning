@@ -1,1 +1,3 @@
-module.exports = "./tokens.json";
+const tokens = require('./tokens.json');
+
+module.exports = tokens;
