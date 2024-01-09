@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/toshi-dsv/design-token-versioning/compare/v2.0.0...v2.0.1) (2024-01-09)
+
+
+### Bug Fixes
+
+* remove beta branch ([64659fb](https://github.com/toshi-dsv/design-token-versioning/commit/64659fb5fbfde97ae93bb1daccb77afa0f6a6abc))
+
 # [2.0.0](https://github.com/toshi-dsv/design-token-versioning/compare/v1.1.0...v2.0.0) (2024-01-09)
 
 
