@@ -1,1 +1,1 @@
-export * from "./tokens.json"
+module.exports = "./tokens.json";
