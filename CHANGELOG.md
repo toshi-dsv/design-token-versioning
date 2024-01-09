@@ -1,3 +1,10 @@
+## [3.1.2](https://github.com/toshi-dsv/design-token-versioning/compare/v3.1.1...v3.1.2) (2024-01-09)
+
+
+### Bug Fixes
+
+* update font size type ([80d004a](https://github.com/toshi-dsv/design-token-versioning/commit/80d004ae3805f80aaebae340720a72978712f74b))
+
 ## [3.1.1](https://github.com/toshi-dsv/design-token-versioning/compare/v3.1.0...v3.1.1) (2024-01-09)
 
 
