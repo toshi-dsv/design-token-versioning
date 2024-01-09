@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/toshi-dsv/design-token-versioning/compare/v1.0.1...v1.1.0) (2024-01-09)
+
+
+### Features
+
+* test minor update and fix export ([3dc2beb](https://github.com/toshi-dsv/design-token-versioning/commit/3dc2beb916d4533c92f7c854d5d770e71a0bb4c1))
+
 ## [1.0.1](https://github.com/toshi-dsv/design-token-versioning/compare/v1.0.0...v1.0.1) (2024-01-09)
 
 
