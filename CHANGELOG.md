@@ -1,3 +1,15 @@
+# [4.0.0](https://github.com/toshi-dsv/design-token-versioning/compare/v3.1.3...v4.0.0) (2024-01-09)
+
+
+### Features
+
+* breaking change test with footer version and add bold font weight ([ef4de08](https://github.com/toshi-dsv/design-token-versioning/commit/ef4de080ea28bb6b354a69b758f875a15b5b907f))
+
+
+### BREAKING CHANGES
+
+* footer version test
+
 ## [3.1.3](https://github.com/toshi-dsv/design-token-versioning/compare/v3.1.2...v3.1.3) (2024-01-09)
 
 
