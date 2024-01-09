@@ -1,3 +1,10 @@
+# [3.1.0](https://github.com/toshi-dsv/design-token-versioning/compare/v3.0.0...v3.1.0) (2024-01-09)
+
+
+### Features
+
+* add white color ([ac57ca3](https://github.com/toshi-dsv/design-token-versioning/commit/ac57ca3ba4a59f1f3fa40e9a5af3b8c966a4f183))
+
 # [3.0.0](https://github.com/toshi-dsv/design-token-versioning/compare/v2.0.1...v3.0.0) (2024-01-09)
 
 
