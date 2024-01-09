@@ -1,3 +1,10 @@
+## [3.1.1](https://github.com/toshi-dsv/design-token-versioning/compare/v3.1.0...v3.1.1) (2024-01-09)
+
+
+### Bug Fixes
+
+* change font size to 16px ([a75a360](https://github.com/toshi-dsv/design-token-versioning/commit/a75a360efe483b6c56920176b4c7aa98a0c20929))
+
 # [3.1.0](https://github.com/toshi-dsv/design-token-versioning/compare/v3.0.0...v3.1.0) (2024-01-09)
 
 
