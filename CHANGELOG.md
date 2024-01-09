@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/toshi-dsv/design-token-versioning/compare/v1.1.0...v2.0.0) (2024-01-09)
+
+
+### Tests
+
+* exclamation to indicate breaking change not working ([57b819b](https://github.com/toshi-dsv/design-token-versioning/commit/57b819b22306191a007ea66857b289278e285e32))
+
+
+### BREAKING CHANGES
+
+* testing with footer version
+
 # [1.1.0](https://github.com/toshi-dsv/design-token-versioning/compare/v1.0.1...v1.1.0) (2024-01-09)
 
 
