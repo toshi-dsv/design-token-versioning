@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/toshi-dsv/design-token-versioning/compare/v2.0.1...v3.0.0) (2024-01-09)
+
+
+### Bug Fixes
+
+* change token fields to complly with Token Studio ([229f60b](https://github.com/toshi-dsv/design-token-versioning/commit/229f60bbdce0f7309620c2fb55a21279f0b4966f))
+
+
+### BREAKING CHANGES
+
+* tokens key added as parent of existing fields
+
 ## [2.0.1](https://github.com/toshi-dsv/design-token-versioning/compare/v2.0.0...v2.0.1) (2024-01-09)
 
 
