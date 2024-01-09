@@ -1,3 +1,10 @@
+## [3.1.3](https://github.com/toshi-dsv/design-token-versioning/compare/v3.1.2...v3.1.3) (2024-01-09)
+
+
+### Bug Fixes
+
+* add font size 14 ([dedadbd](https://github.com/toshi-dsv/design-token-versioning/commit/dedadbd1189ac2dc17159d6bc8d1ccf79047146d))
+
 ## [3.1.2](https://github.com/toshi-dsv/design-token-versioning/compare/v3.1.1...v3.1.2) (2024-01-09)
 
 
