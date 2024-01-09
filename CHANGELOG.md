@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/toshi-dsv/design-token-versioning/compare/v1.0.0...v1.0.1) (2024-01-09)
+
+
+### Bug Fixes
+
+* test patch update ([07da4b9](https://github.com/toshi-dsv/design-token-versioning/commit/07da4b980184eca5f96ef46644401f22f107b846))
+
 # 1.0.0 (2024-01-08)
 
 
