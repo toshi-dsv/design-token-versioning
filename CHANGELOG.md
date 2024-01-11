@@ -1,3 +1,10 @@
+## [4.0.1](https://github.com/toshi-dsv/design-token-versioning/compare/v4.0.0...v4.0.1) (2024-01-11)
+
+
+### Bug Fixes
+
+* adjust font-weight field ([1b057ca](https://github.com/toshi-dsv/design-token-versioning/commit/1b057cabcab07fd7b0cdeade8b3c4907a4a6e874))
+
 # [4.0.0](https://github.com/toshi-dsv/design-token-versioning/compare/v3.1.3...v4.0.0) (2024-01-09)
 
 
