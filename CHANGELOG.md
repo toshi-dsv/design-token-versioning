@@ -1,3 +1,15 @@
+# [5.0.0](https://github.com/toshi-dsv/design-token-versioning/compare/v4.2.0...v5.0.0) (2024-01-11)
+
+
+### Features
+
+* changed object name ([a76c143](https://github.com/toshi-dsv/design-token-versioning/commit/a76c143234bdcfc78638bc2467f38c93b05a13ee))
+
+
+### BREAKING CHANGES
+
+* changed object name of token
+
 # [4.2.0](https://github.com/toshi-dsv/design-token-versioning/compare/v4.1.1...v4.2.0) (2024-01-11)
 
 
