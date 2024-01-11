@@ -1,3 +1,10 @@
+# [4.2.0](https://github.com/toshi-dsv/design-token-versioning/compare/v4.1.1...v4.2.0) (2024-01-11)
+
+
+### Features
+
+* add 20px font size ([fb917c0](https://github.com/toshi-dsv/design-token-versioning/commit/fb917c0c6d85cb7901598a4c51c9aa2533f1ca9e))
+
 ## [4.1.1](https://github.com/toshi-dsv/design-token-versioning/compare/v4.1.0...v4.1.1) (2024-01-11)
 
 
