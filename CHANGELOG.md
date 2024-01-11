@@ -1,3 +1,10 @@
+## [4.1.1](https://github.com/toshi-dsv/design-token-versioning/compare/v4.1.0...v4.1.1) (2024-01-11)
+
+
+### Bug Fixes
+
+* change font size 14 to 12 ([d8d33be](https://github.com/toshi-dsv/design-token-versioning/commit/d8d33be6d04d53ae9d28c376eafbfd9ae92be3ce))
+
 # [4.1.0](https://github.com/toshi-dsv/design-token-versioning/compare/v4.0.1...v4.1.0) (2024-01-11)
 
 
