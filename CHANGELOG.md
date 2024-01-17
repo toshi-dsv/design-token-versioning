@@ -1,3 +1,15 @@
+# [6.0.0](https://github.com/toshi-dsv/design-token-versioning/compare/v5.0.2...v6.0.0) (2024-01-17)
+
+
+### Tests
+
+* testing breaking change ([c2ce199](https://github.com/toshi-dsv/design-token-versioning/commit/c2ce1997931229f3f43bf6ef78792fb2967fadf9))
+
+
+### BREAKING CHANGES
+
+* testing
+
 ## [5.0.2](https://github.com/toshi-dsv/design-token-versioning/compare/v5.0.1...v5.0.2) (2024-01-17)
 
 
